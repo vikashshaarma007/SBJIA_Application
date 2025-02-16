@@ -18,13 +18,11 @@
  ```sh
     * Java 17
     * Spring Boot
-    * HTML
-    * Bootstrap
     * Spring MVC
     * Spring Data JPA
     * Hibernate
     * Maven
-    * PostgreSQL Database
+    * MySQL Database
     * Spring-Boot-Devtools
 ```
 
