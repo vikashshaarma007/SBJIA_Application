@@ -9,6 +9,13 @@
   <br>
 
   To create APIs that allow users to create, update, delete, and fetch all agents and campaigns with pagination in Spring Boot.
+  1. movies
+     Add movie
+     ![image](https://github.com/user-attachments/assets/216ac76e-7946-4f96-b381-c8bdb8a6f19b)
+  2. review
+     Add review
+     ![image](https://github.com/user-attachments/assets/27f2de3b-6aff-4518-9572-e269ea9b8545)
+
   
 
 
@@ -70,12 +77,12 @@
      ```
   2. Run the Project
    ```sh
-    1. Create Database -> sbjassessmentDB in MySql
+    1. Create Database -> sbjassessmentDB in MySql 
     2. Open project in preferred IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code).
     3. Run the project as a Spring Boot app.
     4. Locate the class annotated with @SpringBootApplication.
     5. Right-click and select "Run" or "Debug".
-    6. Hibernate will automatically create a table -> 
+    6. Hibernate will automatically create a table -> movies, reviews 
     7. Add sample data to the table using MySQL Workbench
     8. Ren web browser at localhost: 8080/
     9. Add, Fatch, Update, Delete records from the web app
