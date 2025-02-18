@@ -15,6 +15,14 @@
   2. review
      Add review
      ![image](https://github.com/user-attachments/assets/27f2de3b-6aff-4518-9572-e269ea9b8545)
+     Fatch review Byid
+     ![image](https://github.com/user-attachments/assets/9d1bc8a7-e51c-44d3-8afe-a1825a61aef1)
+     Fatch all review
+     ![image](https://github.com/user-attachments/assets/dd02e434-aed2-41f6-8af6-d7628bca6c69)
+     Delect review ById
+ 
+     
+
 
   
 
