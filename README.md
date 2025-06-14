@@ -81,7 +81,7 @@
   1. Clone the repo
      
      ```sh
-      gh repo clone vikashshaarma007/SBJIA_Application
+      git clone https://github.com/vikashshaarma007/SBJIA_Application.git
      ```
   2. Run the Project
    ```sh
