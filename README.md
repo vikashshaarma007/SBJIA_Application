@@ -81,7 +81,7 @@
   1. Clone the repo
      
      ```sh
-      git clone https://github.com/your_username_/Project-Name.git
+      gh repo clone vikashshaarma007/SBJIA_Application
      ```
   2. Run the Project
    ```sh
