@@ -1,6 +1,7 @@
 <h1 align="center">Rest API Framework 🧮🚀</h1>
 
-<p align="center"><i>A Spring MVC web application for Rest Framework with the following CRUD operations in single platform</i></p>
+<p align="center"><i>A Spring Boot RESTful API application with CRUD operations for managing Movies and Reviews.
+This backend system is built using Spring Boot and follows REST principles to expose endpoints for creating, reading, updating, and deleting movie records and their associated user reviews. It uses Spring Data JPA for ORM, connects to a relational database (e.g., MySQL or PostgreSQL), and handles request validation, entity relationships, and exception handling. The API is structured for easy integration with any frontend or third-party application.</i></p>
 <br>
 <p align="center"><i>Looking forward to working with you Agavian Software Technologies!</i> 👨🏽‍💻 </p>
 <br>
